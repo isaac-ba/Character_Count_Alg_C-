@@ -4,10 +4,10 @@
 
 # <h4>Compilation</h4>	
 <hr>
-Download and navigte to repo in local directory.<br>
-Type into the command line/prompt the following to compile then run:<br>
-> make charCount<br>
-> ./charCount testData.txt output.txt <br>
+## Download and navigte to repo in local directory.<br>
+### Type into the command line/prompt the following to compile then run:<br>
+	> make charCount<br>
+	> ./charCount testData.txt output.txt <br>
 
 <hr>
 
