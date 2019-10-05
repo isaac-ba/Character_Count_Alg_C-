@@ -2,10 +2,10 @@
 # <h3>Project 1: Character Counting</h3> (see <a href="https://github.com/isaac-ba/Character_Count_Alg_Java/blob/master/spex.txt">spex.txt</a>)
 <hr>
 
-### <h4>Compilation</h4>	
-# <hr>
+# <h4>Compilation</h4>	
+## <hr>
 ## Download and navigte to repo in local directory.<br>
-# Type into the command line/prompt the following to compile then run:<br>
+### Type into the command line/prompt the following to compile then run:<br>
 > make charCount<br>
 > ./charCount testData.txt output.txt <br>
 
