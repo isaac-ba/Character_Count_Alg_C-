@@ -3,9 +3,9 @@
 
 # <h4>Compilation</h4>	
 
-	Download and navigte to repo in local directory.<br>
-	Type into the command line/prompt the following to compile then run:<br>
-> make charCount<br>
-> ./charCount testData.txt output.txt <br>
+	Download and navigte to repo in local directory.
+	Type the following into the command line/prompt the following to compile then run the program:
+	1. > make charCount<br>
+	2. > ./charCount testData.txt output.txt <br>
 
 
